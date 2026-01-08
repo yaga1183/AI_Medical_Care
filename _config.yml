@@ -1,0 +1,12 @@
+title: 智慧照護 × AI × 產學合作
+description: 資訊科技系 × 屏東基督教醫院｜智慧照護與在宅醫療
+theme: minima
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+plugins:
+  - jekyll-seo-tag
+
+lang: zh-TW
