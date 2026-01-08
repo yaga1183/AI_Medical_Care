@@ -11,7 +11,7 @@ layout: default
 <a id="zh"></a>
 
 # 🏥 智慧照護 × AI × 產學合作  
-## 資訊科技系 × 屏東基督教醫院
+## 美和科技大學 × 屏東基督教醫院
 
 <svg width="48"><use href="assets/icons.svg#icon-hospital"/></svg>
 
