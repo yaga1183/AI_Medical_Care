@@ -67,7 +67,7 @@ layout: default
 <a id="en"></a>
 
 # 🏥 Smart Healthcare × AI × Industry Collaboration  
-## Dept. of Information Technology × Pingtung Christian Hospital
+## Meiho University × Pingtung Christian Hospital
 
 This platform supports **industry-academia collaboration projects**, serving:  
 - 🎓 Faculty & researchers  
