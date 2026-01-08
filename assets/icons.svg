@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="display:none">
+
+<!-- Home -->
+<symbol id="icon-home" viewBox="0 0 64 64">
+  <rect x="8" y="28" width="48" height="28" rx="4" fill="#4facfe"/>
+  <polygon points="32,8 4,32 12,32 32,16 52,32 60,32" fill="#1e90ff"/>
+</symbol>
+
+<!-- Heart / Care -->
+<symbol id="icon-care" viewBox="0 0 64 64">
+  <path d="M32 56s-20-12-20-28a12 12 0 0 1 20-8 12 12 0 0 1 20 8c0 16-20 28-20 28z"
+        fill="#ff6b6b"/>
+</symbol>
+
+<!-- Dashboard -->
+<symbol id="icon-dashboard" viewBox="0 0 64 64">
+  <rect x="6" y="6" width="52" height="52" rx="8" fill="#0a3d62"/>
+  <rect x="14" y="34" width="8" height="16" fill="#4facfe"/>
+  <rect x="28" y="26" width="8" height="24" fill="#1e90ff"/>
+  <rect x="42" y="18" width="8" height="32" fill="#a4d8ff"/>
+</symbol>
+
+<!-- Hospital -->
+<symbol id="icon-hospital" viewBox="0 0 64 64">
+  <rect x="8" y="8" width="48" height="48" rx="6" fill="#1e90ff"/>
+  <rect x="28" y="16" width="8" height="32" fill="#fff"/>
+  <rect x="16" y="28" width="32" height="8" fill="#fff"/>
+</symbol>
+
+</svg>
